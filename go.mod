@@ -1,4 +1,4 @@
-module gredis
+module github.com/LeeChengfei/gredis
 
 go 1.16
 
